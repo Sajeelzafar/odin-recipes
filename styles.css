@@ -1,0 +1,43 @@
+.titlepage{
+    display: block;
+    text-align: center;
+    
+    color: white;
+    
+}
+.titlelink {
+    text-align: center;
+    color: white;
+    margin: 0px 150px;
+}
+.intro {
+    display: block;
+    background-image: url(Welcomepage.bmp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+
+.introbox {
+    border: 2px solid red;
+    margin-top: 400px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.firstpage {
+    text-align: center;
+}
+
+.img {
+    width: 500px;
+    height: 300px;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inline {
+    display: inline;
+    padding-left: 150px;
+}
